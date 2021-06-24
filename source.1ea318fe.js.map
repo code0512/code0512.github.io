@@ -1,0 +1,1 @@
+{"version":3,"sources":["source.js"],"names":["document","body","innerHTML"],"mappings":";AAAAA,SAASC,KAAKC,WAAa","file":"source.1ea318fe.js","sourceRoot":"src","sourcesContent":["document.body.innerHTML += '<h1>Hello</h1>'\r\n"]}
