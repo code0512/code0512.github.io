@@ -1,0 +1,23 @@
+{
+  "name": "code0512.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "source.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code0512/code0512.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code0512/code0512.github.io/issues"
+  },
+  "homepage": "https://github.com/code0512/code0512.github.io#readme"
+}
